@@ -1,3 +1,3 @@
 module.exports = {
-  HOST: 'https://spotify-collab-listening.herokuapp.com/'
+  HOST: 'https://spotify-collab-listening.herokuapp.com:443'
 };
