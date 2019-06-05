@@ -1,3 +1,3 @@
 module.exports = {
-  HOST: 'http://localhost:3000'
+  HOST: 'https://spotify-collab-listening.herokuapp.com/'
 };
